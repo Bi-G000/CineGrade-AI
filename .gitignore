@@ -1,0 +1,100 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.pdb
+*.ilk
+*.exp
+
+# CMake build directories and cache
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+DependenInfo.txt
+CTestTestfile.cmake
+_deps/
+
+# Visual Studio generated files
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+*.user
+*.sln
+*.ncb
+*.sdf
+*.opensdf
+*.aps
+
+# Node.js / UXP Frontend tooling
+node_modules/
+dist/
+.cache/
+*.log
+
+# Python / AI Training Tools
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+ENV/
+.env
+
+# ONNX Runtime & heavy model binaries (keep placeholder, ignore real weights if they get added)
+# *.onnx 
+
+# Operating System Files
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+ $RECYCLE.BIN/
+
+# Packaging / Installer outputs
+*.msi
+*.iso
+installer/windows/Output/
+installer/windows/Setup.exe
