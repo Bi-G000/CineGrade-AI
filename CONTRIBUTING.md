@@ -1,4 +1,3 @@
-```markdown
 # Contributing to CineGrade AI
 
 First off, thank you for taking the time to contribute to CineGrade AI! 
@@ -190,4 +189,4 @@ A clear description of any alternative solutions or features you've considered.
 **Additional Context**
 Add any other context or screenshots about the feature request here.
 ```
-END FILE```
+
