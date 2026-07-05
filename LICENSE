@@ -1,0 +1,61 @@
+PROPRIETARY SOFTWARE LICENSE AGREEMENT
+
+Version 1.0 - January 2024
+
+This License Agreement ("Agreement") is a legal agreement between you ("Licensee") 
+and CineGrade AI Engineering Team ("Licensor") for the software product known as 
+CineGrade AI for Adobe Illustrator, including any associated media, printed 
+materials, and online or electronic documentation ("Software").
+
+By installing, copying, or otherwise using the Software, you agree to be bound 
+by the terms of this Agreement. If you do not agree to the terms of this 
+Agreement, do not install or use the Software.
+
+1. GRANT OF LICENSE
+   Licensor grants you a non-exclusive, non-transferable, limited license to 
+   install and use the Software solely for your internal business or personal 
+   use on a single computer workstation that meets the system requirements 
+   specified in the Software documentation.
+
+2. INTELLECTUAL PROPERTY
+   The Software is protected by copyright laws and international copyright 
+   treaties, as well as other intellectual property laws and treaties. The 
+   Software is licensed, not sold. All title, ownership rights, and intellectual 
+   property rights in and to the Software shall remain solely with Licensor. 
+   This includes all algorithms, L*a*b* color math implementations, ONNX model 
+   integration architectures, and UXP interface designs.
+
+3. RESTRICTIONS
+   a) You may not reverse engineer, decompile, disassemble, or otherwise attempt 
+      to discover the source code of the Software.
+   b) You may not modify, adapt, translate, or create derivative works based on 
+      the Software.
+   c) You may not rent, lease, lend, or sublicense the Software.
+   d) You may not remove any proprietary notices or labels on the Software.
+
+4. NO WARRANTY
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, LICENSOR DISCLAIMS ALL 
+   WARRANTIES AND CONDITIONS, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT 
+   LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
+   PURPOSE, TITLE, AND NON-INFRINGEMENT, WITH REGARD TO THE SOFTWARE. LICENSOR 
+   DOES NOT WARRANT THAT THE FUNCTIONS CONTAINED IN THE SOFTWARE WILL MEET YOUR 
+   REQUIREMENTS OR THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR 
+   ERROR-FREE.
+
+5. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, 
+   OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES 
+   FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS 
+   INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR 
+   INABILITY TO USE THE SOFTWARE, EVEN IF LICENSOR HAS BEEN ADVISED OF THE 
+   POSSIBILITY OF SUCH DAMAGES.
+
+6. TERMINATION
+   Without prejudice to any other rights, Licensor may terminate this Agreement 
+   if you fail to comply with the terms and conditions herein. In such event, 
+   you must destroy all copies of the Software and all of its component parts.
+
+END OF AGREEMENT
+
+© 2024 CineGrade AI Engineering Team. All Rights Reserved.
+END FILE
