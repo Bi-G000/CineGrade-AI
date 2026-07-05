@@ -1,0 +1,14 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Shadows Sector (Cool Blue) -->
+    <path d="M3.34 17A10 10 0 0 1 12 2L12 12L3.34 17Z" fill="#2F80ED"/>
+    <!-- Midtones Sector (Neutral Green) -->
+    <path d="M20.66 17A10 10 0 0 1 3.34 17L12 12L20.66 17Z" fill="#27AE60"/>
+    <!-- Highlights Sector (Warm Orange) -->
+    <path d="M12 2A10 10 0 0 1 20.66 17L12 12L12 2Z" fill="#F2994A"/>
+    <!-- Dividing Axes -->
+    <line x1="12" y1="2" x2="12" y2="12" stroke="#1E1E1E" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="3.34" y1="17" x2="12" y2="12" stroke="#1E1E1E" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="20.66" y1="17" x2="12" y2="12" stroke="#1E1E1E" stroke-width="1.5" stroke-linecap="round"/>
+    <!-- Center Offset Control -->
+    <circle cx="12" cy="12" r="3.5" fill="#2C2C2C" stroke="#1E1E1E" stroke-width="1.5"/>
+</svg>
