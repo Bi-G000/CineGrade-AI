@@ -24,6 +24,50 @@ The icon should visually communicate "Cinema-Grade Color Grading" and "Precision
 *   **Style:** Flat design, modern, minimal drop shadows. Must be legible at small sizes (e.g., 24x24 in the UXP panel header).
 *   **Safe Zone:** Maintain a 16px padding (10% safe area) on all sides to prevent the graphic from touching the edges or being clipped when rendered in operating system docks or Adobe's panel UI.
 
+## Additional Requirements
+
+To ensure consistency across all supported Adobe UXP environments, the application icon must also comply with the following requirements:
+
+- Do not include any text, letters, numbers, or branding initials.
+- The icon must remain clearly recognizable at small sizes (24×24 and 32×32 pixels).
+- Keep the overall silhouette simple and visually balanced.
+- Avoid excessive gradients, glow effects, heavy shadows, or unnecessary details.
+- Use clean geometric shapes whenever possible.
+- Expand all vector strokes before exporting to prevent rendering inconsistencies.
+- Ensure all artwork remains inside the safe area with no clipped edges.
+- The final icon must look consistent on both Light and Dark Adobe UI themes.
+
+---
+
+## Export Settings
+
+Use the following export settings when generating the final PNG:
+
+- Format: PNG (24-bit)
+- Resolution: 256 × 256 px
+- Color Space: sRGB
+- Transparency: Enabled
+- Anti-aliasing: Art Optimized
+- Compression: Lossless
+- No embedded background color
+- No additional metadata required
+
+---
+
+## Validation Checklist
+
+Before committing the icon to the repository, verify the following:
+
+- [ ] Filename is exactly `app_icon_256x256.png`
+- [ ] Dimensions are exactly 256×256 px
+- [ ] Transparent background
+- [ ] sRGB color profile
+- [ ] No visible clipping
+- [ ] Looks correct on both Light and Dark UI
+- [ ] Remains recognizable at 24×24 px
+- [ ] Exported as lossless PNG
+- [ ] Stored in `resources/icons/`
+
 ## Instructions
 1. Design or export the icon using software like Adobe Illustrator or Figma.
 2. Ensure the artboard is exactly 256x256px.
