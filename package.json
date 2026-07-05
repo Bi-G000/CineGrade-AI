@@ -1,0 +1,28 @@
+{
+  "name": "cinegrade-ai-uxp",
+  "version": "1.0.0",
+  "description": "UXP Frontend for CineGrade AI - Cinema-Grade Color Engine for Adobe Illustrator",
+  "main": "ui/main.js",
+  "scripts": {
+    "build": "echo \"UXP assets are bundled via CMake post-build steps\"",
+    "lint": "eslint ui/**/*.js",
+    "format": "prettier --write \"ui/**/*.{js,html,css,json}\"",
+    "package": "mkdir -p build && cp -r ui resources build/ && cd build && zip -r ../CineGradeAI_UXP.zip ."
+  },
+  "keywords": [
+    "adobe",
+    "illustrator",
+    "uxp",
+    "color-grading",
+    "lut",
+    "cinema",
+    "ai-inference"
+  ],
+  "author": "CineGrade AI Engineering Team",
+  "license": "SEE LICENSE IN LICENSE",
+  "devDependencies": {
+    "eslint": "^8.45.0",
+    "prettier": "^3.0.0"
+  }
+}
+END FILE
